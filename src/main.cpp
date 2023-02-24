@@ -29,6 +29,7 @@ void setup() {
 }
 /**
  * @brief Esta funcion con bucle infinito
+ prueba
 */
 void loop() {
   digitalWrite(2,HIGH);//Led enciede
