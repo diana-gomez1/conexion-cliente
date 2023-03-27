@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "repoLocal_00",
+			"path": "."
+		},
+		{
+			"name": "esp32_01_dweet",
+			"path": "../esp32_01_dweet"
+		},
+		{
+			"name": "esp32_03_dht22",
+			"path": "../esp32_03_dht22"
+		},
+		{
+			"name": "esp32_02_server",
+			"path": "../esp32_02_server"
+		},
+		{
+			"name": "esp32_punteros",
+			"path": "../esp32_punteros"
+		}
+	],
+	"settings": {}
+}
